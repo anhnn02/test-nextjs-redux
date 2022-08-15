@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pro A updated nè em updated nef em",
+      "img": "https://picsum.photos/200/300",
+      "price": 123,
+      "description": "Pro A https://picsum.photos/200/300"
+    }
+  ],
+  "users": [
+    {
+      "email": "anh139chk15@gmail.com",
+      "password": "$2a$10$UoCWN1pKqz8rcmZGcC298O2ALGZfuV7Qt0jhA5ghP8uShcFt4NdjK",
+      "id": 1
+    }
+  ]
+}
